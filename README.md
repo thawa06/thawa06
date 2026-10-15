@@ -13,13 +13,13 @@
 
 ---
 
-## 👾 Sobre mim
+ 👾 Sobre mim
 
 ```javascript
 const thawa = {
   nome: 'Thawã',
   formacao: 'Análise e Desenvolvimento de Sistemas',
-  area: 'Desenvolvimento de Sistemas',
+  area: 'Software Developer',
   conhecimentos: ['JavaScript', 'Angular', 'Java', 'PHP', 'MySQL'],
   interesses: ['Desenvolvimento Web', 'Banco de Dados', 'Automação'],
   objetivo: 'Evoluir profissionalmente na área de tecnologia',
@@ -32,13 +32,13 @@ const thawa = {
 - 🧠 Atualmente aperfeiçoando conhecimentos em **Angular, JavaScript, Java e SQL**.
 - 🎮 Além da programação, gosto de games, tecnologia e anime.
 
-## ⚔️ Tecnologias e ferramentas
+ ⚔️ Tecnologias e ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,php,java,mysql,git,github,vscode&theme=dark&perline=6" alt="HTML, CSS, JavaScript, TypeScript, Angular, PHP, Java, MySQL, Git, GitHub e VS Code" />
 </div>
 
-## 💼 Experiência profissional
+ 💼 Experiência profissional
 
 **Jovem Aprendiz — Auxiliar Administrativo | JLL**  
 Atuação em rotinas administrativas, organização de informações, controle de planilhas e comunicação corporativa.
@@ -46,7 +46,7 @@ Atuação em rotinas administrativas, organização de informações, controle d
 **Experiência anterior — Suporte Técnico**  
 Atendimento a usuários, identificação de problemas e suporte à resolução de dificuldades técnicas.
 
-## 🚀 Projetos e trajetória
+ 🚀 Projetos e trajetória
 
 | Projeto | Descrição | Tecnologias | Situação |
 |:--|:--|:--|:--|
